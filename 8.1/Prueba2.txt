@@ -1,0 +1,3 @@
+Cantidad de ruedas: 4
+Cantidad de puertas: 5
+Cantidad de ventanas: 6

@@ -573,7 +573,7 @@ class Estado:
     life_remaining=12
     armor=False
 
-f=open("gamestatuis.dat","wb")
+f=open("gamestatus.dat","wb")
 e=Estado()
 pickle.dump(f,e)
 f.close()
